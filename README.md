@@ -25,7 +25,7 @@
 
 ## 下载
 
-下载地址见[Github release](https://github.com/erguotou520/electron-ssr/releases)，对应的操作系统下载的文件为
+下载地址见[Github release](https://github.com/Lovely-C/electron-ssr/releases)，对应的操作系统下载的文件为
 
 - Windows `electron-ssr-setup-x.x.x.exe`
 - Mac `electron-ssr-x.x.x.dmg`
